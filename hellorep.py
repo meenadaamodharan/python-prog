@@ -1,2 +1,3 @@
+rep=int(input())
 str=('Hello')
-print(str * 2)
+print(str * rep)

@@ -5,4 +5,4 @@ if mee>1:
 			print("no")
 		else:
 			print("yes")
-else("no")
+    else("no")

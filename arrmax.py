@@ -1,7 +1,4 @@
-a=[1,2,3]
-if a[0]>a[1] and a[0]>a[2]:
-    print(a[0])
-elif a[1]>a[2]:
-    print(a[1])
-else:
-    print(a[2])
+mee=int(input())
+na=list(map(int,input().split()))
+d=max(na)
+print(d)
